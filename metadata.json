@@ -1,0 +1,6 @@
+{
+  "name": "Movie Rating Prediction",
+  "description": "An interactive Data Science portfolio project for predicting movie ratings, comparing machine learning models, and conducting exploratory data analysis on film datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
